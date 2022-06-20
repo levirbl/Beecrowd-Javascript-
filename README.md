@@ -8,4 +8,4 @@ On the Beecrowd / URI platform the prompt is not recognized, so we put a simple 
 let prompt = texto => { return lines.shift(); };
 ~~~
 
-After that, we can use the prompt safely and properly.
+After that, we can use the prompt safely and properly. 
